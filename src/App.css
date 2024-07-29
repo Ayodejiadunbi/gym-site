@@ -1,0 +1,332 @@
+   body{
+  
+  margin: 0 ;
+  padding: 0;
+  
+}
+
+
+.container1{
+  background-image:url(./assets/ladygym1.jpg); 
+  height: 100vb;  
+  width: 100%; 
+}
+
+
+
+.subcontainer{
+ color: white;
+  margin-top: 30rem;
+ margin-left: 20rem; 
+ position: absolute;
+  padding-left: 5rem;   
+}    
+  
+
+.subcontainer h1{
+ font-size: 5rem;
+ margin-left: 20rem; 
+ 
+
+}
+.subcontainer p{
+ font-size: 1.3rem; 
+ margin-left: 20rem;
+}
+.studio{
+  background-color: rgb(48, 45, 45);
+}
+
+
+ 
+.navbar-brand{
+  padding: 2rem;
+} 
+
+.navbar-nav{
+ font-size: 1rem;
+ display: flex;
+ gap: 2rem;
+ padding-right: 3rem;
+}
+
+
+/*SERVICE PAGE*/
+
+
+.service1{
+ height: 100vh;
+ background-color: black;
+ color: white;
+}
+
+.aboutending1 p{
+ margin: 2rem;
+ text-align: center;
+
+}   
+.aboutending1{
+ text-align:center ;
+}
+.bio{
+ padding: 4rem;
+}
+.offerEnding{
+ text-align: center;
+ padding-top: 2rem;
+ padding-bottom: 2rem;
+ 
+}
+.card-text{
+ text-align: center;
+ color: black;
+ 
+}
+.card-header{
+ background-color: rgb(217, 47, 47);
+ text-align: center;
+ padding: 1.5rem;
+ color: white;
+ font-size: 2rem;
+}
+
+
+
+/* about us*/
+
+.about{
+ height: 100vh;
+ background-color:rgb(187, 59, 59);
+ padding-top: 3rem;
+ padding-top: 2rem;
+ color: white;
+ text-align: center;
+
+}
+.aboutus p{
+ color: rgb(190, 188, 183);
+
+}
+.about h2{
+ text-align: center;
+}
+
+
+ 
+
+.aboutending{
+ padding-top: 3rem;
+ padding-bottom: 2rem;
+}
+
+
+.aerobics{
+ display: flex;
+ color: rgba(255, 255, 255, 0.469);
+
+ 
+}
+.serviveLook{
+ padding: 4rem;
+}
+.servicedown{
+ padding-bottom: 4rem;
+}
+h2 {
+ text-align: left;
+}
+.bi{
+ font-size: 2rem;
+}
+
+.gallary{
+ background-color: rgb(32, 30, 30);
+ height: 100vh;
+ padding: 2rem 0rem;
+}
+.gallarytop{
+ text-align: center;
+ color: white;
+ 
+}
+
+.gallarydown{
+ display: flex;
+ justify-content: space-evenly;
+ color: white;
+ font-weight: 500;
+ 
+}
+
+.gallarymenu{
+ font-size: 1.2rem;
+ margin-top: 3rem;
+ 
+}
+
+.gallaryimage img{
+ width: 110%;
+ margin: 3rem;
+}
+.contactcard{
+  background-color: rgb(43, 39, 39);
+  height: 500vh;
+}
+
+.imagename{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.footer{
+  background-color: rgb(54, 52, 52);
+  color: rgb(114, 108, 108);
+  text-align: center;
+}
+
+.footer-content h3{
+  color:beige;
+  text-align: center;
+}
+.ourteam{
+  background-color: black;
+  color: white;
+}
+.imagecontainer{
+  margin-right: 2rem;
+}
+.pricing{
+  background-color: red;
+  
+} 
+ .priciingheader{
+  text-align: center;
+  background-color: red;
+}
+.pricingtext{
+  color: black;
+
+} 
+.card-body1{
+  background-color: black;
+  color: white;
+}
+
+.containier2{
+  background-color:rgb(56, 54, 54) ;
+  height: 80vh;
+
+}
+
+.subcontainer1{
+  background-color: red;
+  height: 12vh;
+  text-align: center;
+}
+.pricingdown{
+  display:flex;
+  gap: 10rem;
+  padding: 7rem;
+  color: white;
+  background-color: rgb(36, 34, 34);
+}
+.card-text1{
+  color: rgb(132, 135, 138);
+}
+.card-textheading{
+  color: bisque;
+}
+.container2{
+  background-color: rgb(46, 44, 44);
+  height: 80vh;
+}
+
+.gallaryheading{
+  color: bisque;
+  text-align: center;
+}
+
+.gallarybottom{
+  display: flex;
+  justify-content: space-between;
+  padding: 4rem;
+}
+.gallarytext{
+  color: bisque;
+}
+.icon{
+  color: rgb(138, 57, 57);
+  
+
+  
+}
+.icon ul li{
+  list-style-type: none;
+  padding: 1rem;
+}
+.gallaryIImage{
+  width: 50rem;
+}
+.gallarybottom h2{
+  text-align: center;
+}
+
+/* 
+about area */
+
+.containerabout{
+  background-color: black;
+  height: 100vh;
+}
+.subconatinerabout{
+  background-color: red;
+  height: 10vh;
+}
+.subconatinerabout h1{
+  text-align: center;
+  color: white;
+}
+.containerheading{
+  color: antiquewhite;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+.containerbottow ul{
+  display: flex;
+}
+
+.containerbottow{
+  margin: 2rem;
+  color: rgb(194, 185, 174);
+}
+.containerbottow h2{
+  color: white;
+}
+
+.about{
+  background-color: black;
+
+}
+
+
+.imagename h2{
+  text-align: center;
+}
+
+.footer-content ul li {
+  list-style-type: none;
+}
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
